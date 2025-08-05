@@ -1,0 +1,1 @@
+## [Artificial Intelligence - Practical Machine Learning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Practical%20Machine%20Learning)

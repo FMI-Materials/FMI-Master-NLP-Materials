@@ -3,7 +3,7 @@
 ### Year I
 | Semester | Discipline                                                     | C | S | L | P | FE | Credits |
 |----------|----------------------------------------------------------------|---|---|---|---|----|---------|
-| I        | Practical Machine Learning (PML)                                 | 2 | 1 | - | - | V  | 6       |
+| I        | [Practical Machine Learning (PML)](https://github.com/FMI-Materials/FMI-Master-NLP-Materials/tree/main/Year%20I/Semester%20I/Practical%20Machine%20Learning)                          | 2 | 1 | - | - | V  | 6       |
 | I        | Foundations Of Natural Language Processing (FNLP)                | 2 | 1 | - | - | E  | 6       |
 | I        | Linguistics For Computer Science (LCS)                           | 2 | 1 | - | - | E  | 6       |
 | I        | [Optional 1](https://github.com/FMI-Materials/FMI-Master-NLP-Materials/tree/main/Year%20I/Semester%20I/Optional)                                                | 2 | 1 | - | - | E  | 6       |
